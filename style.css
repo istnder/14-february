@@ -1,0 +1,39 @@
+.box{
+    width: 700px;
+    margin: auto;
+    background-color: aqua;
+    padding: 20px;
+}
+.block img{
+    width: 100%;
+}
+.menu{
+    background-color: black;
+    padding: 15px;
+}
+.menu a {
+    color: azure;
+    padding: 3px 10px ;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+}
+.menu a:hover{
+    color: blue;
+}
+.block{
+    border: 3px solid black;
+    text-align: justify;
+    padding: 20px;
+    margin: 20px 0px;
+
+}
+body{
+    background-image: url("https://kartinki.pics/pics/uploads/posts/2022-09/1663366778_1-kartinkin-net-p-polskie-otkritki-s-dnem-rozhdeniya-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
